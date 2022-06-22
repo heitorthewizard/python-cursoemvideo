@@ -1,1 +1,1 @@
-# This directory is dadicated for the python course by cursoemvideo
+# This directory is dedicated for the python course by cursoemvideo
