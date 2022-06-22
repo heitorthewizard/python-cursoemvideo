@@ -1,6 +1,7 @@
 # created by virtualenv automatically
-**bin
-**lib
-**venv
-**lib64
-**share
+bin
+lib
+venv
+lib64
+share
+*.mp3
