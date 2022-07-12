@@ -1,7 +1,7 @@
-name = input('Enter your full name: ')
+name = input('Enter your full name: ').strip()
 upper_name = name.upper()
 lower_name = name.lower()
-full_name_length = len(name.replace(' ', ''))
+full_name_length = len(name) - name.count(' ')
 first_name_length = len(name.split()[0])
 
 print(f'''
